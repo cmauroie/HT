@@ -6,5 +6,6 @@ public class primero {
 		// TODO Auto-generated method stub
 		System.out.println("primero");
 		System.out.println("jejeje");
+		System.out.println("jejeje2");
 	}
 }
