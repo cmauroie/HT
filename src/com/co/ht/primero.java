@@ -7,5 +7,8 @@ public class primero {
 		System.out.println("primero");
 		System.out.println("jejeje");
 		System.out.println("jejeje2");
+		
+		System.out.println("segundo");		
+		
 	}
 }
